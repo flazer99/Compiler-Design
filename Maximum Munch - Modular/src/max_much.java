@@ -48,7 +48,7 @@ public class max_much {
 		temp3 = mp1.get(arrOfStr[2]);
 		
 		arr[temp1][temp2]=temp3;
-		System.out.println("Do you wish to continue Y/N:-  ");
+		System.out.println("Do you wish to continue 0/1:-  ");
 		x = sc.nextInt();
 		String temp = sc.nextLine();
 	}
